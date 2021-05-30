@@ -3,3 +3,4 @@ pandas
 numpy
 pandas-profiling
 streamlit-pandas-profiling
+python == 3.8.6
