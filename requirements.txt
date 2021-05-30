@@ -1,6 +1,7 @@
-streamlit
-pandas
+requests
 numpy
-pandas-profiling
-streamlit-pandas-profiling
-python == 3.8.6
+streamlit
+Pillow
+htbuilder
+pandas-profiling==2.10.0
+streamlit-pandas-profiling==0.1.1
